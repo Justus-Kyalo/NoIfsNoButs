@@ -18,6 +18,8 @@ function compareNumbers(a, b) {
 
   compareNumbers (1,2);
   compareNumbers (7,6);
-  compareNumbers (-4,2);
+  compareNumbers (-4,-2);
   compareNumbers (4,4);
+  compareNumbers (4,5);
+
 
